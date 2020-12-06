@@ -1,2 +1,1 @@
-# ontheflyjs.github.io
-OntTheFly.js website to host the related validation library
+<h1>on the fly</h1>
