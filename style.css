@@ -1,0 +1,68 @@
+body{
+    background: #D4D4D4;
+    font-family: 'Noto Sans JP', sans-serif;
+    padding-top: 50px;
+    font-size: 18px;
+
+}
+
+a {
+    color: #1B7CD1;
+    text-decoration: none;
+}
+
+
+/*========================================*/
+.logoContainer{
+    width: 100%;
+}
+
+.logo{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+/*========================================*/
+
+.introContainer{
+    width: 100%;
+}
+
+.intro{
+    border-radius: 10px;
+    display: block;
+    padding: 10px 20px 20px 20px;
+    background-color: #eeeeee;
+    max-width: 500px;
+    margin: 50px auto;
+}
+
+.introSentence{
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+/*========================================*/
+
+.likeIcon{
+    width: 17px;
+    line-height: 10px;
+}
+
+
+
+.outro{
+    border-radius: 10px;
+    display: block;
+    padding: 10px 20px 20px 20px;
+    max-width: 500px;
+    margin: 50px auto;
+}
+
+.outroText{
+}
+
+.visitMe{
+    margin-top: 20px;
+    text-align: center;
+}
